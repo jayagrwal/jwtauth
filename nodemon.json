@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_DB_USER": "admin",
+        "MONGO_ATLAS_PW": "AbUG2m9R%EyePWH",
+        "JWT_KEY":"secret"
+    }
+}
